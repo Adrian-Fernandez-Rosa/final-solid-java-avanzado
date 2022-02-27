@@ -4,7 +4,7 @@ Durante estos ejercicios se va a trabajar sobre las letras S, O y L de los princ
  Crea una clase coche aplicándole el principio de responsabilidad única (S).
  
  
-     Continúa con el código extendiéndolo para aumentar su funcionalidad pero sin modificarlo aplicando el principio abierto/cerrado(O).
+   Continúa con el código extendiéndolo para aumentar su funcionalidad pero sin modificarlo aplicando el principio abierto/cerrado(O).
 	 
 	 
  Crea subclases de la clase coche, por ejemplo un coche eléctrico, de combustible y uno híbrido y aplica el principio de substitución de Liskov (L), 
@@ -15,20 +15,20 @@ Si no has creado interfaces ya, créalas siguiendo el principio de segregación 
 	 deben segregar en varias interfaces pequeñas.
 	Si ya las has creado, modifícalas para que cumplan el principio.
 
-    Deberás crear una conexión a base de datos aplicando el último principio de la inversión de dependencias (D).
+   Deberás crear una conexión a base de datos aplicando el último principio de la inversión de dependencias (D).
     
     
     
-    Continúa con el proyecto de los anteriores ejercicios ahora se va a trabajar sobre las letras I y D de los principios SOLID, deberás:
+   Continúa con el proyecto de los anteriores ejercicios ahora se va a trabajar sobre las letras I y D de los principios SOLID, deberás:
 
 
-    Si no has creado interfaces ya, créalas siguiendo el principio de segregación de interfaz (I) el cual 
-    indica que las interfaces grandes se deben segregar en varias interfaces pequeñas. Si ya las has creado,
-    modifícalas para que cumplan el principio.
+   Si no has creado interfaces ya, créalas siguiendo el principio de segregación de interfaz (I) el cual 
+   indica que las interfaces grandes se deben segregar en varias interfaces pequeñas. Si ya las has creado,
+   modifícalas para que cumplan el principio.
 
-    Deberás crear una conexión a base de datos aplicando el último principio de la inversión de dependencias (D).
+   Deberás crear una conexión a base de datos aplicando el último principio de la inversión de dependencias (D).
     
-    problemas conocidos:
+   problemas conocidos:
    se rompe la S de solid en un caso.
    
   
