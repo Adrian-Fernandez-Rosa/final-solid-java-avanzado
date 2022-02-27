@@ -1,0 +1,2 @@
+Combustible,toyota,2014,150,abc001,100,
+Electrico,tesla,2016,145,abc002,90,
